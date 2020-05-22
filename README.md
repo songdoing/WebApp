@@ -11,7 +11,7 @@ project is created with :
 * Firebase - Authentication, Database(comment and contact section)
 
 ## Live Demo
-<a href ="londonguide-251d4.firebaseapp.com">ALO</a>
+[ALO](https://londonguide-251d4.firebaseapp.com/)
 
 ## Screenshots
 <img src = "https://user-images.githubusercontent.com/48890162/82686383-cc15f180-9c23-11ea-8131-6d765314a04f.png ">
